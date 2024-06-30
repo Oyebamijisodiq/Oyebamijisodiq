@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Oyebamijisodiq
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning software engineering 
+- 👀 I’m a software developer 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 On WhatsApp 08071208672 
