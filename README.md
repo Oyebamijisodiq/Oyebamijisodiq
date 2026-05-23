@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Oyebamijisodiq
-- 👀 I’m a software developer 
-- 💞️ I’m looking to collaborate on django projects
+- 👋 Hi, I’m Oyebamiji sodiq Akorede
+- 👀 I’m a postgraduate mathematics student with quantitative finance as area of expertise
+- 💞️ I’m looking to collaborate on several projects that helps the improvement of AI and technology as a whole.
 - 📫 How to reach me ...
 On WhatsApp 08071208672 
 On LinkedIn @Oyebamiji Sodiq
